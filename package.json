@@ -9,9 +9,11 @@
   "author": "Miguel Angel Ramírez López",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "latest",
     "express": "^4.17.1",
+    "mysql2": "^1.7.0",
     "pug": "^2.0.4",
-    "body-parser": "latest"
+    "sequelize": "^5.18.4"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
